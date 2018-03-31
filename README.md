@@ -8,3 +8,4 @@
 - [字典](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%AD%97%E5%85%B8.md)
 - [集合](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E9%9B%86%E5%90%88.md)
 - [控制流](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%8E%A7%E5%88%B6%E6%B5%81.md)
+- [函数](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%87%BD%E6%95%B0.md)
