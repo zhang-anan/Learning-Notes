@@ -10,3 +10,4 @@
 - [控制流](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%8E%A7%E5%88%B6%E6%B5%81.md)
 - [函数](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%87%BD%E6%95%B0.md)
 - [模块](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%A8%A1%E5%9D%97.md)
+- [正则表达式](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
