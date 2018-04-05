@@ -13,3 +13,4 @@
 - [正则表达式](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 - [文件处理](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86.md)
 - [错误和异常](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E9%94%99%E8%AF%AF%E5%92%8C%E5%BC%82%E5%B8%B8.md)
+- [调试](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E8%B0%83%E8%AF%95.md)
