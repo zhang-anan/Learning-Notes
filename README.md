@@ -14,3 +14,4 @@
 - [文件处理](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86.md)
 - [错误和异常](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E9%94%99%E8%AF%AF%E5%92%8C%E5%BC%82%E5%B8%B8.md)
 - [调试](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E8%B0%83%E8%AF%95.md)
+- [条件运算符递归和推导](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%9D%A1%E4%BB%B6%E8%BF%90%E7%AE%97%E7%AC%A6%E9%80%92%E5%BD%92%E5%92%8C%E6%8E%A8%E5%AF%BC.md)
