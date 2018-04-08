@@ -16,3 +16,4 @@
 - [调试](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E8%B0%83%E8%AF%95.md)
 - [条件运算符递归和推导](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E6%9D%A1%E4%BB%B6%E8%BF%90%E7%AE%97%E7%AC%A6%E9%80%92%E5%BD%92%E5%92%8C%E6%8E%A8%E5%AF%BC.md)
 - [面向对象](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+- [函数式编程](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
