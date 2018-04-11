@@ -19,3 +19,4 @@
 - [函数式编程](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
 - [装饰器](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 - [常用内建模块](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%B8%B8%E7%94%A8%E5%86%85%E5%BB%BA%E6%A8%A1%E5%9D%97.md)
+- [包管理](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%8C%85%E7%AE%A1%E7%90%86.md)
