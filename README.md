@@ -24,3 +24,4 @@
 - [迭代器生成器协程](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%E5%8D%8F%E7%A8%8B.md)
 - [多线程编程](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B.md)
 - [futures](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/futures.md)
+- [队列](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E9%98%9F%E5%88%97.md)
