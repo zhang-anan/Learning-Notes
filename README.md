@@ -25,3 +25,4 @@
 - [多线程编程](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B.md)
 - [futures](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/futures.md)
 - [队列](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E9%98%9F%E5%88%97.md)
+- [线程](https://github.com/zhang-anan/Learning-Notes/blob/master/pythonBasicNotes/%E7%BA%BF%E7%A8%8B.md)
